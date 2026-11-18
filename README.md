@@ -1,16 +1,14 @@
-## Hi there 👋
+# Evgeny Tsitsorin — Portfolio
 
-<!--
-**EvgenyTsitsorin/EvgenyTsitsorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Responsive static portfolio built with HTML, CSS and a small amount of JavaScript.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — portfolio page.
+- `favicon.svg` — browser icon with the exact `ETs` monogram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project previews
+- BrainSilencer is shown using an embedded live preview of the actual project website.
+- Shooting Simulator uses the original `rifle1.png` photo served by the project website.
+
+## Deploy to GitHub Pages
+Upload both `index.html` and `favicon.svg` to the root of the `EvgenyTsitsorin` repository. Keep the two files side by side. No build step is required.
