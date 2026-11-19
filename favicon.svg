@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ETs">
   <rect width="64" height="64" rx="15" fill="#0b0d12"/>
   <rect x="1" y="1" width="62" height="62" rx="14" fill="none" stroke="#80e6d2" stroke-opacity=".78" stroke-width="1.5"/>
-  <text x="32" y="41" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="-2.2" fill="#f1f3f7">ET<tspan fill="#80e6d2">s</tspan></text>
+  <text x="32" y="41" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" letter-spacing="-2.2" fill="#f1f3f7">E<tspan fill="#80e6d2">Ts</tspan></text>
 </svg>
