@@ -1,4 +1,4 @@
-# Evgeny Tsitsorin — Portfolio
+# Evgeny Tsitsorin
 
 Responsive static portfolio built with HTML, CSS and a small amount of JavaScript.
 
